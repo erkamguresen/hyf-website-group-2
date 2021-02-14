@@ -13,8 +13,7 @@
 5. As a **creator of the program** I want to attract coaches to the project for it to grow.
    - [ ] Given 'Become a coach' button.
 6. As a **creator of the program** I want to encourage everybody to apply.
-
-- [ ] Given pictures of the students.
+   - [ ] Given pictures of the students.
 
 ## Should-haves
 
