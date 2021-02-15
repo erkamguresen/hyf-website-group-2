@@ -40,8 +40,8 @@
 
 10. As a **visitor** I want to be able to contact with the organisation to get extra-information.
 
-- [ ] Given 'Contact us' forma and a map.
+   - [ ] Given 'Contact us' forma and a map.
 
 11. As a **visitor** I want contact the organisation through social networks to see their impact.
 
-- [ ] Given social networks icons with links.
+   - [ ] Given social networks icons with links.
