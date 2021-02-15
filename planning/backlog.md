@@ -2,53 +2,46 @@
 
 ## Must-haves
 
-1. As a **potential student** I want to know if I can become a student to continue reading or leave the website.
-   - [ ] Given section 'Who can apply?' on the index page.
-2. As a **potential student** I want to know the curriculum of the program to decide if I want to apply.
-   - [ ] Given a link to the full curriculum.
-3. As a **potential student** I want to be able to contact with the school to ask extra questions.
-   - [ ] Given address, e-mail and social networks accounts.
-4. As a **potential student** I want to be able to apply for program.
-   - [ ] Given apply form.
-5. As a **creator of the program** I want to encourage people to apply to have constant flow of students.
-   - [ ] Given pictures of the students.
-6. As a **creator of the program** I want to encourage women to apply to create gender diversity in coding sector.
-   - [ ] Given call out to women in bold colored font.
-7. As a **visitor** I want a website to be comfortable to use from smaller devices such as phone and tablet.
+1. As an **owner** I want original logo on all the pages.
 
-- [ ] Given when open from smaller device then design modifies to the size of my screen.
+   - [ ] Given a logo on the left top corner of the page.
 
-9. As a **creator of the program** I want about page to raise the credibility of the project.
+2. As a **visitor** I want a menu to navigate the website.
 
-- [ ] Given 'About us' page.
+   - [ ] Given a menu in the right top corner of the page.
 
-## Should-haves
+3. As an **owner** of the website I want our motto to be on the first page.
 
-1. As a **creator of the program** I want to attract coaches to the project for it to grow.
+   - [ ] Given tagline on the top of the page.
 
-- [ ] Given 'Become a coach' button.
+4. **!!** As an **owner** I want to give a summary of the program to interest a visitor.
 
-2. As a **person with experience in this sector** I want to join the project to share my experience.
+   - [ ] Given a short summary of the program.
 
-- [ ] Given can join as volounteer coach or mentor.
+5. As a **visitor** I want to know how successful is the project.
 
-3. As a **visitor** I want to get clarification about program. -[ ] Given a FAQ page.
+   - [ ] Given statistics.
 
-4. As a **person who likes the project** I want to know how I can support the program.
-   - [ ] Given a 'Support us'
+6. As a **visitor** I want to know the core values of the organisation to see if it suits me.
 
-- [ ] us languages icons
-      coding style text
-      bootcamp
-      mentorship program
-      hackthetalks
+   - [ ] Given the core values of the organisation.
 
-## Could-haves
+7. As a **owner** I want to give success stories to motivate people to join the program.
 
-1. As a **potential student**/**student** I want to to be able to contact with graduates of the program.
+   - [ ] Given the success stories.
 
-- [ ] Given alumni section with contacts and news feed.
+8. As a **visitor** I want to know the partners to discover their business connections.
 
-2. As a **student** I want to have job matching section to find job and be found by employers.
+   - [ ] Given the partners section.
 
-- [ ] Given option to create your profile and get e-mail notifications when matched with a vacancy.
+9. As an **owner** I want to raise funds to support the program.
+
+   - [ ] Given the donation form.
+
+10. As a **visitor** I want to be able to contact with the organisation to get extra-information.
+
+- [ ] Given 'Contact us' forma and a map.
+
+11. As a **visitor** I want contact the organisation through social networks to see their impact.
+
+- [ ] Given social networks icons with links.
