@@ -14,7 +14,7 @@
 
    - [ ] Given address, e-mail and social networks accounts.
    
-4. As a **potential student** I want to be able to apply for program.
+4. As a **potential student** I want to be able to apply for the program.
 
    - [ ] Given apply form.
    
@@ -50,7 +50,7 @@
 
 4. As a **person who likes the project** I want to know how I can support the program.
 
-   - [ ] Given a 'Support us'
+   - [ ] Given a 'Support us' page.
 
 ## Could-haves
 
@@ -61,3 +61,4 @@
 2. As a **student** I want to have job matching section to find job and be found by employers.
 
 - [ ] Given option to create your profile and get e-mail notifications when matched with a vacancy.
+
