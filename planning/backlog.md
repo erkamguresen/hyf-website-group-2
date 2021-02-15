@@ -2,6 +2,7 @@
 
 ## Must-haves
 
+
 1. As an **owner** I want original logo on all the pages.
 
    - [ ] Given a logo on the left top corner of the page.
