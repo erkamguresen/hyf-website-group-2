@@ -32,7 +32,8 @@
 
 - [ ] Given can join as volounteer coach or mentor.
 
-3. As a **visitor** I want to get clarification about program. -[ ] Given a FAQ page.
+3. As a **visitor** I want to get clarification about program. 
+- [ ] Given a FAQ page.
 
 4. As a **person who likes the project** I want to know how I can support the program.
    - [ ] Given a 'Support us'
