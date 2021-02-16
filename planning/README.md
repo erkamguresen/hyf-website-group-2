@@ -7,8 +7,8 @@
 
 | day       | time    | how   | topic                       |
 | :-------- | :------ | :---- | :-------------------------- |
-| monday    |         |        |                            |
-| tuesday   |         |        |                            |
+| monday    | 9-10, 18-00   |  Slack|   planning, backlog               |
+| tuesday   | 17-30 -20.00  |  Slack      |  baclog, questions                          |
 | wednesday |         |        |                            |
 | thursday  |         |        |                            |
 | friday    |         |        |                            |
@@ -17,8 +17,7 @@
 
 <!--As a team come up with a plan for how to use each communication channel. What will you discuss on each one? How often will you get in touch on each channel? Below is a starter list of different ways to communicate, go ahead and rewrite this list so it works for your team:-->
 
-- **Zoom** global issues
-- **Slack** small issues,advices, "how to do?'
+- **Slack** global issues, small issues, advices, "how to do?', meeting sum up
 - **GitHub** Issues, Pull Requests
 
 <!--- **Planning Documents**:
