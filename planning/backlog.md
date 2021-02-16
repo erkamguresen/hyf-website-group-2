@@ -46,3 +46,19 @@
 11. As a **visitor** I want contact the organisation through social networks to see their impact.
 
    - [ ] Given social networks icons with links.
+
+
+
+**Should have**
+1. As a **visitor** I want to help the program.
+ - [ ] Given volunter section/page.
+2. As a **potential student** I want to apply to the program.
+ -[ ] Given apply form.
+
+
+**could have**
+
+1.  As a **vistor** I want web site more interactive.
+  - [ ] Given animation.
+2. As A **Visitor** Navigations links at footer should have a hover effect so that user can see which list item is selected for pressing.
+ - [ ] Given quick menu highlighted when it's pressed then the border or the background color should change so that user can understand.
