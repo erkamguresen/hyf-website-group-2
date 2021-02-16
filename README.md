@@ -97,7 +97,10 @@ Our motivation is to reverse engineering the HYF webpage and rebuild it in two w
 
 ## Screenshots
 
-Include logo/demo screenshot etc.
+The following screenshots are taken during the project plannings;
+
+- [Home Page](/screenShots/hackyourfuture.be_support-us.png)
+- [The Program](/screenShots/hackyourfuture.be_%20The-Program.png)
 
 ## Tech/framework used
 
