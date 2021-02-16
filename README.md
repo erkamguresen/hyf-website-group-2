@@ -101,6 +101,10 @@ The following screenshots are taken during the project plannings;
 
 - [Home Page](/screenShots/hackyourfuture.be_support-us.png)
 - [The Program](/screenShots/hackyourfuture.be_%20The-Program.png)
+- [Volunteer](/screenShots/hackyourfuture.be_Volunteer.png)
+- [About](/screenShots/hackyourfuture.be_About.png)
+- [FQA](/screenShots/hackyourfuture.be_FAQ.png)
+- [Support Us](/screenShots/hackyourfuture.be_support-us.png)
 
 ## Tech/framework used
 
@@ -146,6 +150,4 @@ Give proper credits. This could be a link to any repo which inspired you to buil
 
 ## License
 
-A short snippet describing the license (MIT, Apache etc)
-
-MIT © [Yourname]()
+MIT ©
