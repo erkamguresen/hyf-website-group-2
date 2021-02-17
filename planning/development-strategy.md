@@ -1,3 +1,7 @@
+## Wireframe
+
+![Wireframe](/images/wireframe.png)
+
 **HTML** - label
 
 **CSS** -label
