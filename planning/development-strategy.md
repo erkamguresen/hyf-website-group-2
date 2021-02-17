@@ -1,98 +1,133 @@
+**HTML** - label
 
-html 
+**CSS** -label
 
-logo (milestone)
- 
-html(label)
- - Give link to the image header section(**issue**).
-css(label)
+## Logo (milestone)
+
+**HTML**
+
+- header section(**issue**)
+- insert logo
+
+**CSS**
+
 - "logo" class
 
+## Menu (milestone)
 
-Menu(milestone)
-html(label)
-- Home menus(The program,volunteer,about,faq,support us,apply button) (**_issue_**).
+**HTML**
 
-css(label)
- "home_menu" class
+- menu: program, volunteer, about, faq, support us, apply button) (**issue**)
 
- 
-Tag line section (milestone)
-html(label)
--Tagline with the pictures(**issue**).
-css(label)
-"tagline" class
+**CSS**
 
-Program detail section(milestone)
-html(label)
--paragraph about HYF program(**_issue_**).
--Discover button(**issue**)
-css(label)
-"program_summary" class
-"discover_btn" class
-"button_styling"
+- "home-menu" class
 
-Stats section(milestone)
-html(label)
-- four paragraph (**issue**)
+## Motto (milestone)
 
-css(label)
-"three_stats" class
-"main_text" class
+**HTML**
 
-Core values section (milestone)
-html(label)
+- motto (**issue**)
+- background picture(**issue**)
+
+**CSS**
+
+-"motto" class
+
+## Program summary(milestone)
+
+**HTML**
+
+- paragraph about HYF program(**issue**).
+- 'Discover more' button(**issue**)
+
+**CSS**
+
+- "program-summary" class
+- "discover-btn" class
+- button styling
+
+## Stats section(milestone)
+
+**HTML**
+
+- 4 paragraphs (**issue**)
+
+**CSS**
+
+-"three-stats" class
+-"main-text" class
+
+## Core values section (milestone)
+
+**HTML**
+
 - four paragraph with icons(**issue**)
 
-css(label)
-"core_values" class
+**CSS**
 
+- "core-values" class
 
-Student success stories (milestone)
-html(label)
--paragraph with the stories (**issue**)
--Photo of students(**issue**)
+## Student success stories (milestone)
 
-css(label)
-"success_stories" class
+**HTML**
 
+- paragraph with a story (**issue**)
+- student's photo(**issue**)
 
-Business patners section(milestone)
-html(label)
+**CSS**
+
+-"success-stories" class
+
+## Business patners section(milestone)
+
+**HTML**
+
 - Icons(**issue**)
-- Become patner button(**issue**)
-css(label)
-"business_patners" class
+- Become partner button(**issue**)
 
+  **CSS**
 
-Donation section (milestone)
-html(label)
--  Donation with request Form(**issue**)
--  Donate button(**issue**)
+- "business-partners" class
 
-css(label)
-"donation" class
-"donate_btn" class
+- button styling
 
+## Donation section (milestone)
 
+**HTML**
 
-Contact Us section (milestone)
-html(label)
-- Contact us form in contact us section (**issue**)
--  Send button(**issue**)
--  google map(**issue**)
-- address,email in footer section (**issue**)
+- donation with request form(**issue**)
+- donate button(**issue**)
 
- css(label)
-"contact_form" class
-"send_btn" class
-"address" class
+**CSS**
 
-social networks  section (milestone)
-html(label)
--footer (**issue**)
-- Favicons (**issue**)
+- "donation" class
+- "donate-btn" class
+- button styling
 
-css(label)
-"footer" class
-"favicon" class
+## Contact Us section (milestone)
+
+**HTML**
+
+- contact us form in contact us section (**issue**)
+- send button(**issue**)
+- google map(**issue**)
+- address, e-mail in a footer section (**issue**)
+
+  **CSS**
+
+- "contact-form" class
+- "send-btn" class
+- "address" class
+
+## Social networks section (milestone)
+
+**HTML**
+
+- footer
+- Favicons in a footer(**issue**)
+
+**CSS**
+
+- "footer" class (**issue**)
+- "favicon" class (**issue**)
