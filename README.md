@@ -85,9 +85,9 @@ Our motivation is to reverse engineering the HYF webpage and rebuild it in two w
 
 ## Build status
 
-![Build Status](https://img.shields.io/badge/build-temporary%20page%20holder-orange)
+<!-- ![Build Status](https://img.shields.io/badge/build-temporary%20page%20holder-orange) -->
 
-<!-- ![Build Status](https://img.shields.io/badge/build-work%20in%20progress-yellowgreen) -->
+![Build Status](https://img.shields.io/badge/build-work%20in%20progress-yellowgreen)
 
 <!-- ![Build Status](https://img.shields.io/badge/build-completed-brightgreen) -->
 
