@@ -36,10 +36,12 @@
   font-family: var(--heading-font);
 }
 .contact-form-text p {
+  font-weight: 300;
   margin: 0 0 20px;
 }
 
 .contact-form-group {
+  font-weight: 300;
   margin: 2em 0;
   /* border: 2px solid black; */
 }
@@ -54,13 +56,17 @@
   /* border: 2px dotted aquamarine; */
 }
 
-.contact-form-group input {
+.contact-form-group input,
+.contact-form-element textarea {
+  background: transparent;
   padding: 10px 5px;
+  border: 1px solid white;
+  border-radius: 3px;
 }
 
 .contact-form-element textarea {
   margin: 0 0 20px;
-  padding: 10px 5px;
+  /* padding: 10px 5px; */
 }
 
 .contact-btn {
