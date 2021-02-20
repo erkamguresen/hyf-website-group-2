@@ -117,12 +117,30 @@
     <section>
       <!-- contact form -->
       <div>
-        <div>
+        <div class="form-group-text">
           <h1>CONTACT US</h1>
           <p>
             We’re always happy to welcome people like you to our HYF community.
             Drop us a line and become part of it!
           </p>
+        </div>
+        <div class="form-group">
+          <form
+            action="mailto:contact.@hackyourfuture.be?subject=I want to become part of HYF"
+            method="post"
+            enctype="text/plain"
+          >
+            <label for="full-name">Full name</label>
+            <input type="text" id="full-name" name="Full Name" value="" />
+
+            <label for="email">Email address</label>
+            <input type="email" id="email" name="e-mail" value="" />
+
+            <label for="message">Message</label>
+            <textarea name="message" id="message" cols="30" rows="10">
+            </textarea
+            ><button>Send</button>
+          </form>
         </div>
       </div>
 
