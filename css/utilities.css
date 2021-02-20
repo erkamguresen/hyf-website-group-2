@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Work+Sans:wght@300;600;700&display=swap");
+:root {
+  --dark-blue-color: rgb(74, 80, 187);
+  --heading-font: "Work Sans", sans-serif;
+  font-family: "Space Mono", monospace;
+}
+
+.contact-us {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+
+  border: 2px solid yellow;
+}
+.contact-form {
+  width: 40%;
+  background-color: var(--dark-blue-color);
+  color: #fff;
+  font-weight: 700;
+  padding: 50px 100px;
+  border: 2px solid green;
+}
+
+.map {
+  width: 55%;
+  border: 2px solid blue;
+}
+
+.contact-form-text {
+  border: 2px solid red;
+}
+
+.contact-form-text h1 {
+  font-size: 1.5rem;
+  margin: 0 0 20px;
+  font-family: var(--heading-font);
+}
+.contact-form-text p {
+  margin: 0 0 20px;
+}
+
+.contact-form-group {
+  margin: 2em 0;
+  border: 2px solid black;
+}
+.contact-form-element {
+  display: flex;
+  flex-direction: column;
+  border: 2px darkmagenta dashed;
+}
+
+.contact-form-group label {
+  margin: 20px 0 5px;
+  border: 2px dotted aquamarine;
+}
+
+.contact-form-group input {
+  padding: 10px 5px;
+}
+
+.contact-form-element textarea {
+  margin: 0 0 20px;
+  padding: 10px 5px;
+}
+
+.contact-btn {
+  background: #fff;
+  color: #2d3037;
+  padding: 10px 20px;
+  font-size: 12px;
+  border-radius: 4px;
+  font-family: var(--heading-font);
+  font-weight: 600;
+  border: none;
+  line-height: 160%;
+}
+
+.map-container {
+  border: 2px solid orange;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
